@@ -64,8 +64,8 @@ Bot de moderação para Discord e Telegram (warns, kick, ban, mute) feito em Pyt
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielGiaculo&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGiaculo&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=GabrielGiaculo&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=GabrielGiaculo&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
