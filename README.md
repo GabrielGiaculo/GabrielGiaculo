@@ -56,6 +56,9 @@ Dashboard financeiro para pequenos negócios — React, Node.js e PostgreSQL.
 **[bot-moderacao-discord-telegram](https://github.com/GabrielGiaculo/bot-moderacao-discord-telegram)**
 Bot de moderação para Discord e Telegram (warns, kick, ban, mute) feito em Python.
 
+**[calculadora-python](https://github.com/GabrielGiaculo/calculadora-python)**
+Calculadora com interface gráfica feita em Python usando Tkinter.
+
 ---
 
 ### 📊 Estatísticas do GitHub
