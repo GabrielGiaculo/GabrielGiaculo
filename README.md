@@ -16,8 +16,7 @@
 
 - 🎓 Estudante de Ciência da Computação
 - 💻 Foco em desenvolvimento **Full-Stack**: React, Node.js e PostgreSQL
-- ☁️ Construí e coloquei em produção um sistema SaaS completo, com clientes reais
-- 🤖 Também curto criar bots e automações (Discord, Telegram)
+- ☁️ Construí e operei um SaaS de PDV com mais de 15 clientes (projeto encerrado, código aberto)
 - 📍 São Paulo, SP
 
 ---
@@ -40,14 +39,12 @@
 
 ### 📌 Projeto em destaque
 
-#### ☁️ Cloud System PDV
-Sistema **SaaS** completo de Ponto de Venda para pequenos e médios comércios — **em produção, com clientes reais**. Multiempresa, PDV, painel administrativo com dashboards, app mobile PWA com leitura de código de barras pela câmera, automações por e-mail e controle de acesso por níveis.
+#### ☁️ Cloud PDV
+Sistema de Ponto de Venda **multiempresa** para pequenos comércios, desenvolvido em dupla e usado por mais de 15 clientes até ser encerrado em 2026. Tem caixa com leitura de código de barras, retaguarda com dashboard, app mobile PWA, e-mail de fechamento de caixa e controle de acesso por níveis.
 
-**🌐 [sistemacloudpdv.com.br](https://sistemacloudpdv.com.br)**
+**👉 [Ver o código no GitHub](https://github.com/GabrielGiaculo/cloud-pdv)**
 
 `Node.js` · `Express` · `PostgreSQL` · `Prisma` · `JWT` · `PWA` · `Nginx` · `PM2`
-
-> Projeto privado (código fechado), mas em funcionamento ativo — acesse a landing page acima.
 
 ---
 
